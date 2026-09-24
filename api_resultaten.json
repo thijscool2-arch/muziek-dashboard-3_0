@@ -1,0 +1,2469 @@
+{
+  "itunes": {
+    "innerpeace|milkz": {
+      "status": "Match",
+      "genre": "Hiphop/Rap",
+      "opgehaald_op": "2026-09-24T11:07:17.666061+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=inner+peace+Milkz&entity=song&country=NL&limit=50",
+      "titel": "Inner Peace",
+      "artiest": "Milkz",
+      "itunes_id": 1458684607,
+      "bron_url": "https://music.apple.com/nl/album/inner-peace/1458684606?i=1458684607&uo=4"
+    },
+    "ilostafriend|finneas": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:07:21.917424+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=I+Lost+a+Friend+FINNEAS&entity=song&country=NL&limit=50",
+      "titel": "I Lost a Friend",
+      "artiest": "FINNEAS",
+      "itunes_id": 1720941624,
+      "bron_url": "https://music.apple.com/nl/album/i-lost-a-friend/1720941617?i=1720941624&uo=4"
+    },
+    "migraine|twentyonepilots": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:07:26.034190+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Migraine+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+      "titel": "Migraine",
+      "artiest": "twenty one pilots",
+      "itunes_id": 542853939,
+      "bron_url": "https://music.apple.com/nl/album/migraine/542853930?i=542853939&uo=4"
+    },
+    "areasontofight|disturbed": {
+      "status": "Match",
+      "genre": "Hardrock",
+      "opgehaald_op": "2026-09-24T11:07:30.042867+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=A+Reason+to+Fight+Disturbed&entity=song&country=NL&limit=50",
+      "titel": "A Reason to Fight",
+      "artiest": "Disturbed",
+      "itunes_id": 1425820711,
+      "bron_url": "https://music.apple.com/nl/album/a-reason-to-fight/1425820707?i=1425820711&uo=4"
+    },
+    "messageman|twentyonepilots": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:07:33.996252+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Message+Man+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+      "titel": "Message Man",
+      "artiest": "twenty one pilots",
+      "itunes_id": 974485813,
+      "bron_url": "https://music.apple.com/nl/album/message-man/974485462?i=974485813&uo=4"
+    },
+    "wheniwasyourman|brunomars": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:07:38.100653+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=When+I+Was+Your+Man+Bruno+Mars&entity=song&country=NL&limit=50",
+      "titel": "When I Was Your Man",
+      "artiest": "Bruno Mars",
+      "itunes_id": 572179987,
+      "bron_url": "https://music.apple.com/nl/album/when-i-was-your-man/572179738?i=572179987&uo=4"
+    },
+    "imprettyforgettable|ocha": {
+      "status": "Match",
+      "genre": "Instrumentaal",
+      "opgehaald_op": "2026-09-24T11:07:41.592747+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=im+pretty+forgettable+ocha&entity=song&country=NL&limit=50",
+      "titel": "im Pretty Forgettable",
+      "artiest": "Ocha",
+      "itunes_id": 1498005804,
+      "bron_url": "https://music.apple.com/nl/album/im-pretty-forgettable/1498005800?i=1498005804&uo=4"
+    },
+    "screen|twentyonepilots": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:07:45.820773+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Screen+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+      "titel": "Screen",
+      "artiest": "twenty one pilots",
+      "itunes_id": 584886655,
+      "bron_url": "https://music.apple.com/nl/album/screen/584886428?i=584886655&uo=4"
+    },
+    "talktome|cavetown": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:07:49.820693+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Talk+to+Me+Cavetown&entity=song&country=NL&limit=50",
+      "titel": "Talk to Me",
+      "artiest": "Cavetown",
+      "itunes_id": 1553604480,
+      "bron_url": "https://music.apple.com/nl/album/talk-to-me/1553604475?i=1553604480&uo=4"
+    },
+    "carradio|twentyonepilots": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:07:53.653720+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Car+Radio+Twenty+One+Pilots&entity=song&country=NL&limit=50",
+      "titel": "Car Radio",
+      "artiest": "twenty one pilots",
+      "itunes_id": 585128671,
+      "bron_url": "https://music.apple.com/nl/album/car-radio/585128397?i=585128671&uo=4"
+    },
+    "twilight|boa": {
+      "status": "Match",
+      "genre": "Indiepop",
+      "opgehaald_op": "2026-09-24T11:07:57.652396+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Twilight+b%C3%B4a&entity=song&country=NL&limit=50",
+      "titel": "Twilight",
+      "artiest": "bôa",
+      "itunes_id": 1596227763,
+      "bron_url": "https://music.apple.com/nl/album/twilight/1596227761?i=1596227763&uo=4"
+    },
+    "theia|bigyuki": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:01.121087+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Thei%C4%81+BIGYUKI&entity=song&country=NL&limit=50"
+    },
+    "aaesaˆaaa|aaamyyy": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:04.754495+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=%C3%A5%C2%B1%C2%8D%C3%A3%E2%80%9A%E2%80%99%C3%A8%C2%B6%C5%A0%C3%A3%C2%81%CB%86%C3%A3%C2%81%C2%A6%C3%A3%E2%80%9A%E2%80%A0%C3%A3%C2%81%E2%80%98+AAAMYYY&entity=song&country=NL&limit=50"
+    },
+    "aluminiumukmix|rothbartbaron": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:08:08.701969+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Aluminium+%28UK+mix%29+ROTH+BART+BARON&entity=song&country=NL&limit=50",
+      "titel": "Aluminium (UK mix)",
+      "artiest": "ROTH BART BARON",
+      "itunes_id": 1290070086,
+      "bron_url": "https://music.apple.com/nl/album/aluminium-uk-mix/1290070076?i=1290070086&uo=4"
+    },
+    "comeonletsgo|broadcast": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:08:12.732508+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Come+On+Let%27s+Go+Broadcast&entity=song&country=NL&limit=50",
+      "titel": "Come On Let's Go",
+      "artiest": "Broadcast",
+      "itunes_id": 282547698,
+      "bron_url": "https://music.apple.com/nl/album/come-on-lets-go/282547626?i=282547698&uo=4"
+    },
+    "harleyquinn|chiefkeef": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:16.667867+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Harley+Quinn+Chief+Keef&entity=song&country=NL&limit=50"
+    },
+    "bystandersinspace|mosessumney": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:08:20.205651+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Bystanders+%28in+space%29+Moses+Sumney&entity=song&country=NL&limit=50",
+      "titel": "Bystanders (in space)",
+      "artiest": "Moses Sumney",
+      "itunes_id": 1593290304,
+      "bron_url": "https://music.apple.com/nl/album/bystanders-in-space/1593289183?i=1593290304&uo=4"
+    },
+    "toyou|badbadnotgood": {
+      "status": "Match",
+      "genre": "Elektronisch",
+      "opgehaald_op": "2026-09-24T11:08:24.110797+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=To+You+BADBADNOTGOOD&entity=song&country=NL&limit=50",
+      "titel": "To You",
+      "artiest": "BADBADNOTGOOD",
+      "itunes_id": 1236721660,
+      "bron_url": "https://music.apple.com/nl/album/to-you/1236718852?i=1236721660&uo=4"
+    },
+    "stranger|thecavemen": {
+      "status": "Match",
+      "genre": "Highlife",
+      "opgehaald_op": "2026-09-24T11:08:28.576278+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Stranger+The+Cavemen.&entity=song&country=NL&limit=50",
+      "titel": "Stranger",
+      "artiest": "The Cavemen.",
+      "itunes_id": 1591295530,
+      "bron_url": "https://music.apple.com/nl/album/stranger/1591295366?i=1591295530&uo=4"
+    },
+    "laserasperillag|brassbandberneroberland": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:32.307433+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=La+Sera+Sper+Il+Lag+Brass+Band+Berner+Oberland&entity=song&country=NL&limit=50"
+    },
+    "eleanorrigby|codyfry": {
+      "status": "Match",
+      "genre": "Singer-songwriter",
+      "opgehaald_op": "2026-09-24T11:08:36.163585+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Eleanor+Rigby+Cody+Fry&entity=song&country=NL&limit=50",
+      "titel": "Eleanor Rigby",
+      "artiest": "Cody Fry",
+      "itunes_id": 1632336499,
+      "bron_url": "https://music.apple.com/nl/album/eleanor-rigby/1632336125?i=1632336499&uo=4"
+    },
+    "allnightlong|brassbandoberschwabenallgau": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:40.009710+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=All+Night+Long+Brass+Band+Oberschwaben-Allg%C3%A4u&entity=song&country=NL&limit=50"
+    },
+    "dansespaiennes|eddydebons": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:43.568310+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Danses+Pa%C3%AFennes+Eddy+Debons&entity=song&country=NL&limit=50"
+    },
+    "hypercube|oliverwaespi": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:47.132847+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Hypercube+Oliver+Waespi&entity=song&country=NL&limit=50"
+    },
+    "momentswelivefor|inparadise": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:08:51.133516+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Moments+We+Live+For+In+Paradise&entity=song&country=NL&limit=50",
+      "titel": "Moments We Live For",
+      "artiest": "In Paradise",
+      "itunes_id": 1711638636,
+      "bron_url": "https://music.apple.com/nl/album/moments-we-live-for/1711638621?i=1711638636&uo=4"
+    },
+    "wellermanseashanty220kidxbillentedremix|nathanevans": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:08:55.175542+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Wellerman+-+Sea+Shanty+%2F+220+KID+x+Billen+Ted+Remix+Nathan+Evans&entity=song&country=NL&limit=50"
+    },
+    "ifididnthaveyou|banners": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:08:59.267114+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=If+I+Didn%27t+Have+You+BANNERS&entity=song&country=NL&limit=50",
+      "titel": "If I Didn't Have You",
+      "artiest": "BANNERS",
+      "itunes_id": 1556276695,
+      "bron_url": "https://music.apple.com/nl/album/if-i-didnt-have-you/1556276693?i=1556276695&uo=4"
+    },
+    "bang|ajr": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:09:03.435380+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Bang%21+AJR&entity=song&country=NL&limit=50",
+      "titel": "Bang!",
+      "artiest": "AJR",
+      "itunes_id": 1495856170,
+      "bron_url": "https://music.apple.com/nl/album/bang/1495855922?i=1495856170&uo=4"
+    },
+    "concertodearanjuez|theflowersband": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:06.927846+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Concerto+De+Aranjuez+The+Flowers+Band&entity=song&country=NL&limit=50"
+    },
+    "runawayrunaway|nabelha14a14lerabike": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:10.400764+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Run+Away+-+Runaway+N%C3%83%C2%A4belh%C3%83%C2%BC%C3%83%C2%BCler+%C3%83%E2%80%9Ebike&entity=song&country=NL&limit=50"
+    },
+    "thelastcall|ottomschwarz": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:14.248913+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=The+last+call+Otto+M.+Schwarz&entity=song&country=NL&limit=50"
+    },
+    "nobodydoesitbetter|marvinhamlisch": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:18.147548+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Nobody+Does+It+Better+Marvin+Hamlisch&entity=song&country=NL&limit=50"
+    },
+    "thehypnotistcornetsoloversion|obltphilippwerlen": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:21.645600+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=The+Hypnotist+-+Cornet+Solo+Version+Oblt+Philipp+Werlen&entity=song&country=NL&limit=50"
+    },
+    "stateofgracetaylorsversion|taylorswift": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:09:25.772083+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=State+Of+Grace+%28Taylor%27s+Version%29+Taylor+Swift&entity=song&country=NL&limit=50",
+      "titel": "State Of Grace (Taylor's Version)",
+      "artiest": "Taylor Swift",
+      "itunes_id": 1590368278,
+      "bron_url": "https://music.apple.com/nl/album/state-of-grace-taylors-version/1590368275?i=1590368278&uo=4"
+    },
+    "erinshore|brighouseandrastrickbrassband": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:29.275618+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Erin+Shore+Brighouse+And+Rastrick+Brass+Band&entity=song&country=NL&limit=50"
+    },
+    "paintitblack|ramindjawadi": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:09:32.791407+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Paint+It%2C+Black+Ramin+Djawadi&entity=song&country=NL&limit=50",
+      "titel": "Paint It, Black",
+      "artiest": "Ramin Djawadi",
+      "itunes_id": 1454372395,
+      "bron_url": "https://music.apple.com/nl/album/paint-it-black/1454372369?i=1454372395&uo=4"
+    },
+    "anxiety|sophiepecora": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:09:36.346746+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Anxiety+Sophie+Pecora&entity=song&country=NL&limit=50",
+      "titel": "Anxiety",
+      "artiest": "Sophie Pecora",
+      "itunes_id": 1549710141,
+      "bron_url": "https://music.apple.com/nl/album/anxiety/1549710139?i=1549710141&uo=4"
+    },
+    "lightwalk|barriegott": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:40.317082+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Light+Walk+Barrie+Gott&entity=song&country=NL&limit=50"
+    },
+    "miasebastianatmstheme|justinhurwitz": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:43.814398+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Mia+%26+Sebastian%C3%A2%E2%82%AC%E2%84%A2s+Theme+Justin+Hurwitz&entity=song&country=NL&limit=50"
+    },
+    "letmemoveyoufromthenetflixfilmworkit|sabrinacarpenter": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:09:47.797984+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Let+Me+Move+You+-+From+the+Netflix+film+%22Work+It%22+Sabrina+Carpenter&entity=song&country=NL&limit=50",
+      "titel": "Let Me Move You (From the Netflix film \"Work It\")",
+      "artiest": "Sabrina Carpenter",
+      "itunes_id": 1523357416,
+      "bron_url": "https://music.apple.com/nl/album/let-me-move-you-from-the-netflix-film-work-it/1523357415?i=1523357416&uo=4"
+    },
+    "loseyou|ericnam": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:09:52.322632+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Lose+You+Eric+Nam&entity=song&country=NL&limit=50",
+      "titel": "Lose You",
+      "artiest": "Eric Nam",
+      "itunes_id": 1611276543,
+      "bron_url": "https://music.apple.com/nl/album/lose-you/1611276526?i=1611276543&uo=4"
+    },
+    "moment|leechangmin": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:09:56.336065+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Moment+Lee+Chang+Min&entity=song&country=NL&limit=50"
+    },
+    "diedreigroschenoperaktidiemoritatvonmackiemesserundderhaifischderhatzahne|kurtweill": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:00.384700+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Die+Dreigroschenoper%3A+Akt+I%2C+Die+Moritat+von+Mackie+Messer+%28%22Und+der+Haifisch%2C+der+hat+Z%C3%A4hne%22%29+Kurt+Weill&entity=song&country=NL&limit=50"
+    },
+    "diedreigroschenoperaktikanonensongjohnwardarunterundjimwardabei|kurtweill": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:04.175557+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Die+Dreigroschenoper%3A+Akt+I%2C+Kanonensong+%28%22John+war+darunter+und+Jim+war+dabei%22%29+Kurt+Weill&entity=song&country=NL&limit=50"
+    },
+    "theworstpiesinlondonhighlightsversion|helenabonhamcarter": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:10:07.751476+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=The+Worst+Pies+in+London+-+Highlights+Version+Helena+Bonham+Carter&entity=song&country=NL&limit=50",
+      "titel": "The Worst Pies In London (Highlights Version)",
+      "artiest": "Helena Bonham Carter",
+      "itunes_id": 269736809,
+      "bron_url": "https://music.apple.com/nl/album/the-worst-pies-in-london-highlights-version/269736285?i=269736809&uo=4"
+    },
+    "myfriends|johnnydepp": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:11.804452+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=My+Friends+Johnny+Depp&entity=song&country=NL&limit=50"
+    },
+    "thenutcrackerop711992remastercafe|pyotrilyichtchaikovsky": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:15.334157+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=The+Nutcracker%2C+Op.71+%281992+-+Remaster%29%3A+Cafe+Pyotr+Ilyich+Tchaikovsky&entity=song&country=NL&limit=50"
+    },
+    "mariadebuenosairesyosoymariaarrdelrey|astorpiazzolla": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:19.467093+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Maria+de+Buenos+Aires%3A+Yo+soy+Mar%C3%ADa+%28Arr.+del+Rey%29+Astor+Piazzolla&entity=song&country=NL&limit=50"
+    },
+    "midsommarvakamidsummervigilop19swedishrhapsodyno1|hugoalfven": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:23.826625+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Midsommarvaka+%28Midsummer+Vigil%29%2C+Op.+19%2C+%22Swedish+Rhapsody+No.1%22+Hugo+Alfv%C3%A9n&entity=song&country=NL&limit=50"
+    },
+    "sommeil|stromae": {
+      "status": "Match",
+      "genre": "Franse pop",
+      "opgehaald_op": "2026-09-24T11:10:27.453144+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=sommeil+Stromae&entity=song&country=NL&limit=50",
+      "titel": "Sommeil",
+      "artiest": "Stromae",
+      "itunes_id": 1440856028,
+      "bron_url": "https://music.apple.com/nl/album/sommeil/1440856001?i=1440856028&uo=4"
+    },
+    "whydidithavetobeme|joshdylan": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:31.598372+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Why+Did+It+Have+To+Be+Me%3F+Josh+Dylan&entity=song&country=NL&limit=50"
+    },
+    "fernando|cher": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:10:35.863600+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Fernando+Cher&entity=song&country=NL&limit=50",
+      "titel": "Fernando",
+      "artiest": "Cher",
+      "itunes_id": 1421985847,
+      "bron_url": "https://music.apple.com/nl/album/fernando/1421985829?i=1421985847&uo=4"
+    },
+    "johanna|jamiecampbellbower": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:10:39.439520+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Johanna+Jamie+Campbell+Bower&entity=song&country=NL&limit=50",
+      "titel": "Johanna",
+      "artiest": "Jamie Campbell Bower",
+      "itunes_id": 269737326,
+      "bron_url": "https://music.apple.com/nl/album/johanna/269736285?i=269737326&uo=4"
+    },
+    "prettywomenhighlightsversion|johnnydepp": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:43.070499+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Pretty+Women+-+Highlights+Version+Johnny+Depp&entity=song&country=NL&limit=50"
+    },
+    "onmywayfrombrotherbearsoundtrackversion|philcollins": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:47.100434+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=On+My+Way+-+From+%22Brother+Bear%22%2FSoundtrack+Version+Phil+Collins&entity=song&country=NL&limit=50"
+    },
+    "mammamia|maneskin": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:50.772912+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=MAMMAMIA+M%C3%A5neskin&entity=song&country=NL&limit=50"
+    },
+    "jessiesgirl|rickspringfield": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:54.910367+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Jessie%27s+Girl+Rick+Springfield&entity=song&country=NL&limit=50"
+    },
+    "milleafeatoriettaberti|fedez": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:10:58.536101+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=MILLE+%C3%A2%E2%82%AC%E2%80%9C+feat.+Orietta+Berti+Fedez&entity=song&country=NL&limit=50"
+    },
+    "lunchboxfriends|melaniemartinez": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:11:02.533838+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Lunchbox+Friends+Melanie+Martinez&entity=song&country=NL&limit=50",
+      "titel": "Lunchbox Friends",
+      "artiest": "Melanie Martinez",
+      "itunes_id": 1473836228,
+      "bron_url": "https://music.apple.com/nl/album/lunchbox-friends/1473836218?i=1473836228&uo=4"
+    },
+    "attheendoftheday|hughjackman": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:06.574617+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=At+The+End+Of+The+Day+Hugh+Jackman&entity=song&country=NL&limit=50"
+    },
+    "webuiltthiscitygleecastversion|gleecast": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:11:10.510383+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=We+Built+This+City+%28Glee+Cast+Version%29+Glee+Cast&entity=song&country=NL&limit=50",
+      "titel": "We Built This City (Glee Cast Version)",
+      "artiest": "Glee Cast",
+      "itunes_id": 972274290,
+      "bron_url": "https://music.apple.com/nl/album/we-built-this-city-glee-cast-version/972274287?i=972274290&uo=4"
+    },
+    "dosoruguitas|sebastianyatra": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:14.484186+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Dos+Oruguitas+Sebastian+Yatra&entity=song&country=NL&limit=50"
+    },
+    "tumblingdown|soupandreas": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:17.977878+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Tumbling+Down+soupandreas&entity=song&country=NL&limit=50"
+    },
+    "colors|loona": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:21.954233+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Colors+LOONA&entity=song&country=NL&limit=50"
+    },
+    "bubbleoflife|manwithamission": {
+      "status": "Match",
+      "genre": "Rock",
+      "opgehaald_op": "2026-09-24T11:11:25.905818+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Bubble+of+Life+MAN+WITH+A+MISSION&entity=song&country=NL&limit=50",
+      "titel": "Bubble of Life",
+      "artiest": "MAN WITH A MISSION",
+      "itunes_id": 542279542,
+      "bron_url": "https://music.apple.com/nl/album/bubble-of-life/542279535?i=542279542&uo=4"
+    },
+    "disconnectmefromsaturator|dustvoxx": {
+      "status": "Match",
+      "genre": "Dance",
+      "opgehaald_op": "2026-09-24T11:11:29.600117+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Disconnect+Me+%28from+saturator%29+Dustvoxx&entity=song&country=NL&limit=50",
+      "titel": "Disconnect Me (From Saturator)",
+      "artiest": "Dustvoxx",
+      "itunes_id": 1494253704,
+      "bron_url": "https://music.apple.com/nl/album/disconnect-me-from-saturator/1494253385?i=1494253704&uo=4"
+    },
+    "future|kagetora": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:33.047318+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=FUTURE+Kagetora.&entity=song&country=NL&limit=50"
+    },
+    "letatmsgohometogether|ellahenderson": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:36.520714+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Let%C3%A2%E2%82%AC%E2%84%A2s+Go+Home+Together+Ella+Henderson&entity=song&country=NL&limit=50"
+    },
+    "himawari|mujo": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:40.005503+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Himawari+Mujo&entity=song&country=NL&limit=50"
+    },
+    "haki|urushi": {
+      "status": "Match",
+      "genre": "Hiphop/Rap",
+      "opgehaald_op": "2026-09-24T11:11:43.493714+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Haki+Urushi&entity=song&country=NL&limit=50",
+      "titel": "Haki",
+      "artiest": "URUSHI",
+      "itunes_id": 1588684382,
+      "bron_url": "https://music.apple.com/nl/album/haki/1588684378?i=1588684382&uo=4"
+    },
+    "putitonhigh|nitsua": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:47.020808+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=put+it+on+high+nitsua.&entity=song&country=NL&limit=50"
+    },
+    "standinginparadise|alefillman": {
+      "status": "Match",
+      "genre": "Hiphop/Rap",
+      "opgehaald_op": "2026-09-24T11:11:50.537369+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Standing+in+Paradise+Ale+Fillman&entity=song&country=NL&limit=50",
+      "titel": "Standing in Paradise",
+      "artiest": "Ale Fillman",
+      "itunes_id": 1607193515,
+      "bron_url": "https://music.apple.com/nl/album/standing-in-paradise/1607193512?i=1607193515&uo=4"
+    },
+    "stupidisco|juniorjack": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:54.208571+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Stupidisco+Junior+Jack&entity=song&country=NL&limit=50"
+    },
+    "somebodythatiusedtoknow|gotye": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:11:58.076874+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Somebody+that+I+Used+to+Know+Gotye&entity=song&country=NL&limit=50"
+    },
+    "dontyouforgetaboutmeremastered|simpleminds": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:12:02.088454+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Don%27t+You+%28Forget+About+Me%29+-+Remastered+Simple+Minds&entity=song&country=NL&limit=50",
+      "titel": "Don't You (Forget About Me) [Remastered]",
+      "artiest": "Simple Minds",
+      "itunes_id": 726174715,
+      "bron_url": "https://music.apple.com/nl/album/dont-you-forget-about-me-remastered/726174536?i=726174715&uo=4"
+    },
+    "wavy|altairblake": {
+      "status": "Match",
+      "genre": "Hiphop/Rap",
+      "opgehaald_op": "2026-09-24T11:12:05.604106+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Wavy+Altair+Blake&entity=song&country=NL&limit=50",
+      "titel": "Wavy",
+      "artiest": "Altair Blake",
+      "itunes_id": 1563899164,
+      "bron_url": "https://music.apple.com/nl/album/wavy/1563899162?i=1563899164&uo=4"
+    },
+    "dreamcatchme|newtonfaulkner": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:09.575102+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Dream+Catch+Me+Newton+Faulkner&entity=song&country=NL&limit=50"
+    },
+    "alwaysbemybaby|mariahcarey": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:12:13.500141+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Always+Be+My+Baby+Mariah+Carey&entity=song&country=NL&limit=50",
+      "titel": "Always Be My Baby",
+      "artiest": "Mariah Carey",
+      "itunes_id": 169962272,
+      "bron_url": "https://music.apple.com/nl/album/always-be-my-baby/169962059?i=169962272&uo=4"
+    },
+    "aufuns|andreasbourani": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:12:17.361968+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Auf+uns+Andreas+Bourani&entity=song&country=NL&limit=50",
+      "titel": "Auf uns",
+      "artiest": "Andreas Bourani",
+      "itunes_id": 1440777917,
+      "bron_url": "https://music.apple.com/nl/album/auf-uns/1440777692?i=1440777917&uo=4"
+    },
+    "perfectstrangers|jonasblue": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:21.371447+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Perfect+Strangers+Jonas+Blue&entity=song&country=NL&limit=50"
+    },
+    "somebody|natalielarose": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:25.294425+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Somebody+Natalie+La+Rose&entity=song&country=NL&limit=50"
+    },
+    "stfd|tezatalks": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:28.775547+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=STFD+TeZATalks&entity=song&country=NL&limit=50"
+    },
+    "dizzy|missio": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:12:32.650937+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Dizzy+MISSIO&entity=song&country=NL&limit=50",
+      "titel": "Dizzy",
+      "artiest": "MISSIO",
+      "itunes_id": 1455673659,
+      "bron_url": "https://music.apple.com/nl/album/dizzy/1455673426?i=1455673659&uo=4"
+    },
+    "rabbithole|aviva": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:12:36.532196+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=RABBIT+HOLE+AViVA&entity=song&country=NL&limit=50",
+      "titel": "Rabbit Hole",
+      "artiest": "AViVA",
+      "itunes_id": 1867300503,
+      "bron_url": "https://music.apple.com/nl/album/rabbit-hole/1867300500?i=1867300503&uo=4"
+    },
+    "overdose|grandson": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:12:40.293908+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Overdose+grandson&entity=song&country=NL&limit=50",
+      "titel": "Overdose",
+      "artiest": "grandson",
+      "itunes_id": 1377380700,
+      "bron_url": "https://music.apple.com/nl/album/overdose/1377380699?i=1377380700&uo=4"
+    },
+    "introinfected|sickick": {
+      "status": "Match",
+      "genre": "Hiphop/Rap",
+      "opgehaald_op": "2026-09-24T11:12:44.029454+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Intro+%28Infected%29+Sickick&entity=song&country=NL&limit=50",
+      "titel": "Intro (Infected)",
+      "artiest": "Sickick",
+      "itunes_id": 1808069721,
+      "bron_url": "https://music.apple.com/nl/album/intro-infected/1808069625?i=1808069721&uo=4"
+    },
+    "idlovetochangetheworldmatstubsremix|jetta": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:48.219749+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=I%27d+Love+to+Change+the+World+%28Matstubs+Remix%29+Jetta&entity=song&country=NL&limit=50"
+    },
+    "gloryofnelly|caravanpalace": {
+      "status": "Match",
+      "genre": "Elektronisch",
+      "opgehaald_op": "2026-09-24T11:12:51.692435+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Glory+of+Nelly+Caravan+Palace&entity=song&country=NL&limit=50",
+      "titel": "Glory of Nelly",
+      "artiest": "Caravan Palace",
+      "itunes_id": 501340529,
+      "bron_url": "https://music.apple.com/nl/album/glory-of-nelly/501340479?i=501340529&uo=4"
+    },
+    "solitaire|marina": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:55.310079+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Solitaire+MARINA&entity=song&country=NL&limit=50"
+    },
+    "savages|marina": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:12:59.236748+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Savages+MARINA&entity=song&country=NL&limit=50"
+    },
+    "feelyou|neovaii": {
+      "status": "Match",
+      "genre": "Dance",
+      "opgehaald_op": "2026-09-24T11:13:02.971742+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Feel+You+Neovaii&entity=song&country=NL&limit=50",
+      "titel": "Feel You",
+      "artiest": "Neovaii",
+      "itunes_id": 1849214941,
+      "bron_url": "https://music.apple.com/nl/album/feel-you/1849214939?i=1849214941&uo=4"
+    },
+    "festivaloflight|audiomachine": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:13:06.467323+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Festival+Of+Light+Audiomachine&entity=song&country=NL&limit=50",
+      "titel": "Festival of Light",
+      "artiest": "Audiomachine",
+      "itunes_id": 1601734950,
+      "bron_url": "https://music.apple.com/nl/album/festival-of-light/1601734743?i=1601734950&uo=4"
+    },
+    "happy|marinathediamonds": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:10.525080+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Happy+Marina+%26+the+Diamonds&entity=song&country=NL&limit=50"
+    },
+    "inmymind|aliceivy": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:14.421207+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=In+My+Mind+Alice+Ivy&entity=song&country=NL&limit=50"
+    },
+    "pityparty|melaniemartinez": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:13:18.206218+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Pity+Party+Melanie+Martinez&entity=song&country=NL&limit=50",
+      "titel": "Pity Party",
+      "artiest": "Melanie Martinez",
+      "itunes_id": 998053322,
+      "bron_url": "https://music.apple.com/nl/album/pity-party/998053321?i=998053322&uo=4"
+    },
+    "bully|tezatalks": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:21.668634+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Bully+TeZATalks&entity=song&country=NL&limit=50"
+    },
+    "dirty|grandson": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:13:25.581233+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Dirty+grandson&entity=song&country=NL&limit=50",
+      "titel": "Dirty",
+      "artiest": "grandson",
+      "itunes_id": 1532717465,
+      "bron_url": "https://music.apple.com/nl/album/dirty/1532717460?i=1532717465&uo=4"
+    },
+    "getjinxed|leagueoflegends": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:29.641307+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Get+Jinxed+League+of+Legends&entity=song&country=NL&limit=50"
+    },
+    "ladidiefeatjxdn|nessabarrett": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:33.478060+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=la+di+die+%28feat.+jxdn%29+Nessa+Barrett&entity=song&country=NL&limit=50"
+    },
+    "littlebombay|thatrickaz": {
+      "status": "Match",
+      "genre": "Dance",
+      "opgehaald_op": "2026-09-24T11:13:37.048403+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Little+Bombay+Tha+Trickaz&entity=song&country=NL&limit=50",
+      "titel": "Little Bombay",
+      "artiest": "Tha Trickaz",
+      "itunes_id": 1478964548,
+      "bron_url": "https://music.apple.com/nl/album/little-bombay/1478964547?i=1478964548&uo=4"
+    },
+    "tiptoe|imaginedragons": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:13:41.055067+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Tiptoe+Imagine+Dragons&entity=song&country=NL&limit=50",
+      "titel": "Tiptoe",
+      "artiest": "Imagine Dragons",
+      "itunes_id": 1440830126,
+      "bron_url": "https://music.apple.com/nl/album/tiptoe/1440829989?i=1440830126&uo=4"
+    },
+    "grrrls|aviva": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:44.603534+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=GRRRLS+AViVA&entity=song&country=NL&limit=50"
+    },
+    "chargerfeatgracejones|gorillaz": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:13:48.125865+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Charger+%28feat.+Grace+Jones%29+Gorillaz&entity=song&country=NL&limit=50",
+      "titel": "Charger (feat. Grace Jones)",
+      "artiest": "Gorillaz",
+      "itunes_id": 1215773677,
+      "bron_url": "https://music.apple.com/nl/album/charger-feat-grace-jones/1215772681?i=1215773677&uo=4"
+    },
+    "dullknives|imaginedragons": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:13:52.126131+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Dull+Knives+Imagine+Dragons&entity=song&country=NL&limit=50",
+      "titel": "Dull Knives",
+      "artiest": "Imagine Dragons",
+      "itunes_id": 1617909767,
+      "bron_url": "https://music.apple.com/nl/album/dull-knives/1617908569?i=1617909767&uo=4"
+    },
+    "glitch|brainstormlarot": {
+      "status": "Match",
+      "genre": "Dance",
+      "opgehaald_op": "2026-09-24T11:13:55.589363+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Glitch+Brainstorm+%26+Larot&entity=song&country=NL&limit=50",
+      "titel": "Glitch",
+      "artiest": "Brainstorm & Larot",
+      "itunes_id": 1359887218,
+      "bron_url": "https://music.apple.com/nl/album/glitch/1359886925?i=1359887218&uo=4"
+    },
+    "summernights|siames": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:13:59.552533+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Summer+Nights+SIAMES&entity=song&country=NL&limit=50"
+    },
+    "thewolf|siames": {
+      "status": "Match",
+      "genre": "Indierock",
+      "opgehaald_op": "2026-09-24T11:14:03.486726+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=The+Wolf+SIAMES&entity=song&country=NL&limit=50",
+      "titel": "The Wolf",
+      "artiest": "SIAMES",
+      "itunes_id": 1385954423,
+      "bron_url": "https://music.apple.com/nl/album/the-wolf/1385954418?i=1385954423&uo=4"
+    },
+    "tagyoureit|melaniemartinez": {
+      "status": "Match",
+      "genre": "Alternative",
+      "opgehaald_op": "2026-09-24T11:14:07.438692+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Tag%2C+You%27re+It+Melanie+Martinez&entity=song&country=NL&limit=50",
+      "titel": "Tag, You're It",
+      "artiest": "Melanie Martinez",
+      "itunes_id": 1020518350,
+      "bron_url": "https://music.apple.com/nl/album/tag-youre-it/1020518191?i=1020518350&uo=4"
+    },
+    "blackbetty|caravanpalace": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:10.955288+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Black+Betty+Caravan+Palace&entity=song&country=NL&limit=50"
+    },
+    "madworld|garyjules": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:14.953051+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Mad+World+Gary+Jules&entity=song&country=NL&limit=50"
+    },
+    "houdini|aviva": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:18.468346+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=HOUDINI+AViVA&entity=song&country=NL&limit=50"
+    },
+    "startmenu|tobyfox": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:14:22.746862+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Start+Menu+Toby+Fox&entity=song&country=NL&limit=50",
+      "titel": "Start Menu",
+      "artiest": "Toby Fox",
+      "itunes_id": 1528217797,
+      "bron_url": "https://music.apple.com/nl/album/start-menu/1528217465?i=1528217797&uo=4"
+    },
+    "heartache|tobyfox": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:14:26.411169+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Heartache+Toby+Fox&entity=song&country=NL&limit=50",
+      "titel": "Heartache",
+      "artiest": "Toby Fox",
+      "itunes_id": 1528217809,
+      "bron_url": "https://music.apple.com/nl/album/heartache/1528217465?i=1528217809&uo=4"
+    },
+    "pokemonbattlethemedubstepremix|dubstephitz": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:30.559666+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Pokemon+Battle+Theme+-+Dubstep+Remix+Dubstep+Hitz&entity=song&country=NL&limit=50"
+    },
+    "metalcrusher|tobyfox": {
+      "status": "Match",
+      "genre": "Soundtrack",
+      "opgehaald_op": "2026-09-24T11:14:34.081890+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Metal+Crusher+Toby+Fox&entity=song&country=NL&limit=50",
+      "titel": "Metal Crusher",
+      "artiest": "Toby Fox",
+      "itunes_id": 1528217845,
+      "bron_url": "https://music.apple.com/nl/album/metal-crusher/1528217465?i=1528217845&uo=4"
+    },
+    "surrenderthethrone|krewella": {
+      "status": "Match",
+      "genre": "Dance",
+      "opgehaald_op": "2026-09-24T11:14:37.539384+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Surrender+The+Throne+Krewella&entity=song&country=NL&limit=50",
+      "titel": "Surrender the Throne",
+      "artiest": "Krewella",
+      "itunes_id": 1114190622,
+      "bron_url": "https://music.apple.com/nl/album/surrender-the-throne/1114190509?i=1114190622&uo=4"
+    },
+    "nolullaby|siames": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:41.419497+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=No+Lullaby+SIAMES&entity=song&country=NL&limit=50"
+    },
+    "beggars|krewella": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:44.879069+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Beggars+Krewella&entity=song&country=NL&limit=50"
+    },
+    "cantforgetyou|krewella": {
+      "status": "Match",
+      "genre": "Dance",
+      "opgehaald_op": "2026-09-24T11:14:48.653643+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Can%27t+Forget+You+Krewella&entity=song&country=NL&limit=50",
+      "titel": "Can't Forget You",
+      "artiest": "Krewella",
+      "itunes_id": 1114190656,
+      "bron_url": "https://music.apple.com/nl/album/cant-forget-you/1114190509?i=1114190656&uo=4"
+    },
+    "remembermeforcenturies|djniqomusic": {
+      "status": "Match",
+      "genre": "Pop",
+      "opgehaald_op": "2026-09-24T11:14:52.137587+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Remember+Me+for+Centuries+Djniqomusic&entity=song&country=NL&limit=50",
+      "titel": "Remember Me for Centuries",
+      "artiest": "Djniqomusic",
+      "itunes_id": 959735926,
+      "bron_url": "https://music.apple.com/nl/album/remember-me-for-centuries/959735618?i=959735926&uo=4"
+    },
+    "noregretsfeatkrewella|kshmr": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:55.721642+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=No+Regrets+%28feat.+Krewella%29+KSHMR&entity=song&country=NL&limit=50"
+    },
+    "beggars|krewellafeatdiskord": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:14:59.176339+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Beggars+Krewella+feat.+DISKORD&entity=song&country=NL&limit=50"
+    },
+    "lonediggervaporwave|caravanpalace": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:15:02.618195+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Lone+Digger+%28Vaporwave%29+Caravan+Palace&entity=song&country=NL&limit=50"
+    },
+    "midnight|caravanpalace": {
+      "status": "Match",
+      "genre": "Elektronisch",
+      "opgehaald_op": "2026-09-24T11:15:06.137841+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Midnight+Caravan+Palace&entity=song&country=NL&limit=50",
+      "titel": "Midnight",
+      "artiest": "Caravan Palace",
+      "itunes_id": 1005693203,
+      "bron_url": "https://music.apple.com/nl/album/midnight/1005692202?i=1005693203&uo=4"
+    },
+    "motherrussia|savant": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:15:09.605622+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Mother+Russia+Savant&entity=song&country=NL&limit=50"
+    },
+    "bringmetolifeteminitethearcturiansremix|evanescence": {
+      "status": "Geen eenduidige match",
+      "genre": null,
+      "opgehaald_op": "2026-09-24T11:15:13.517405+00:00",
+      "zoek_url": "https://itunes.apple.com/search?term=Bring+Me+To+Life+%28Teminite+%26+The+Arcturians+Remix+Evanescence&entity=song&country=NL&limit=50"
+    }
+  },
+  "reccobeats": {
+    "2AHKsVXN6BjBO8SEVX6cBC": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "10fada3b-34b8-458a-a6e3-ad55a7fefacc",
+      "energy": 0.0759,
+      "valence": 0.234,
+      "tempo": 98.979,
+      "danceability": 0.481
+    },
+    "7jvyYiVYg3XxjvyrOZHDwg": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "e9dc0c9f-c484-43fb-9346-bf0b0e942fd1",
+      "energy": 0.0885,
+      "valence": 0.114,
+      "tempo": 134.444,
+      "danceability": 0.755
+    },
+    "2pUpNOgJBIBCcjyQZQ00qU": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "b95590dd-dd16-435b-b879-3b41b2f78258",
+      "energy": 0.541,
+      "valence": 0.217,
+      "tempo": 76.289,
+      "danceability": 0.445
+    },
+    "6c7N5N7amAOpeMykjlovjI": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "0e5f7a1f-6959-496d-981d-20e9812d055b",
+      "energy": 0.404,
+      "valence": 0.129,
+      "tempo": 81.713,
+      "danceability": 0.508
+    },
+    "49MMefftWPcltNP4OOJGSs": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": null
+    },
+    "4rfaoyaZvNa60cj3OKSQV9": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "ba39cd88-8581-46e8-85c2-8e6395abee0e",
+      "energy": 0.678,
+      "valence": 0.409,
+      "tempo": 173.995,
+      "danceability": 0.69
+    },
+    "78ObTPtTR1gQ1b6tcVeBdA": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "755cb2ec-7eeb-4309-bf4f-c1f915025bb3",
+      "energy": 0.571,
+      "valence": 0.26,
+      "tempo": 75.04,
+      "danceability": 0.591
+    },
+    "4Oyl6oYSNeeZZP0OAxPVaU": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "01d8065a-372b-470e-ab26-d47a7b973437",
+      "energy": 0.838,
+      "valence": 0.497,
+      "tempo": 120.007,
+      "danceability": 0.715
+    },
+    "6hjh2phISvfR1Ib6S0FK7b": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "52ccdd5a-b3cc-4925-9d13-81b4f3767f38",
+      "energy": 0.0682,
+      "valence": 0.352,
+      "tempo": 76.94,
+      "danceability": 0.691
+    },
+    "5dyihZecYMcEPq09Bk2OL2": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "027799cb-ab39-4b08-9a2c-5620b7b67201",
+      "energy": 0.153,
+      "valence": 0.324,
+      "tempo": 78.072,
+      "danceability": 0.731
+    },
+    "0nJW01T7XtvILxQgC5J7Wh": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "5eafbe45-b692-44ad-a32e-3054341debb4",
+      "energy": 0.28,
+      "valence": 0.387,
+      "tempo": 72.795,
+      "danceability": 0.612
+    },
+    "2vcPEJ5TsmKC9lnLkNVGUj": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": null
+    },
+    "1pKmfhwbZvsyYUP2eOGdw5": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "335fb2f8-3eaf-4464-8255-f81810e45fe0",
+      "energy": 0.714,
+      "valence": 0.84,
+      "tempo": 149.949,
+      "danceability": 0.718
+    },
+    "5rDrZXgrZ6iKxE6jDO2mFD": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": null
+    },
+    "3znD2JTezT8ZLkp2pmft2l": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "3df0230a-9c62-4a95-b934-2d03276cea85",
+      "energy": 0.323,
+      "valence": 0.234,
+      "tempo": 130.082,
+      "danceability": 0.626
+    },
+    "43QSsuxazI8xms29SYCtxh": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "b38461dd-b05b-4715-a255-a8471c8badb7",
+      "energy": 0.811,
+      "valence": 0.691,
+      "tempo": 87.508,
+      "danceability": 0.565
+    },
+    "5cbpoIu3YjoOwbBDGUEp3P": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "f4f278af-0b60-4d1a-a008-19253f616885",
+      "energy": 0.519,
+      "valence": 0.612,
+      "tempo": 129.972,
+      "danceability": 0.766
+    },
+    "065mWeAFcIWOX52Cnj9f6M": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": null
+    },
+    "3JdhouQ8DKAULrM86R3j9o": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": "3ec6ad0c-cf81-46f4-b014-01ab45840bd8",
+      "energy": 0.771,
+      "valence": 0.706,
+      "tempo": 105.095,
+      "danceability": 0.558
+    },
+    "6MkYYqGRXXBHX0XG7bgHIa": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:38.674356+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2AHKsVXN6BjBO8SEVX6cBC,7jvyYiVYg3XxjvyrOZHDwg,2pUpNOgJBIBCcjyQZQ00qU,6c7N5N7amAOpeMykjlovjI,49MMefftWPcltNP4OOJGSs,4rfaoyaZvNa60cj3OKSQV9,78ObTPtTR1gQ1b6tcVeBdA,4Oyl6oYSNeeZZP0OAxPVaU,6hjh2phISvfR1Ib6S0FK7b,5dyihZecYMcEPq09Bk2OL2,0nJW01T7XtvILxQgC5J7Wh,2vcPEJ5TsmKC9lnLkNVGUj,1pKmfhwbZvsyYUP2eOGdw5,5rDrZXgrZ6iKxE6jDO2mFD,3znD2JTezT8ZLkp2pmft2l,43QSsuxazI8xms29SYCtxh,5cbpoIu3YjoOwbBDGUEp3P,065mWeAFcIWOX52Cnj9f6M,3JdhouQ8DKAULrM86R3j9o,6MkYYqGRXXBHX0XG7bgHIa",
+      "reccobeats_id": null
+    },
+    "3nLUOG6vfs4Oe5ZuJ7ro2M": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "374buquHBf8KY9edm9SBtG": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "3TWnb13OgnxJH7h9lynmv2": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "648TTtYB0bH0P8Hfy0FmkL": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "9f35aa44-87bd-4889-8182-08749149e37f",
+      "energy": 0.182,
+      "valence": 0.178,
+      "tempo": 136.094,
+      "danceability": 0.349
+    },
+    "0OUCDV4CjuCULrXar3KbAf": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "2656da70-e52d-4a26-9b5a-36d172c59b6d",
+      "energy": 0.188,
+      "valence": 0.395,
+      "tempo": 87.921,
+      "danceability": 0.464
+    },
+    "0bmwICSaQp0JA4Qoh0h1b7": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "7ccf29ea-ebf0-47e8-ad02-6d89f31fa374",
+      "energy": 0.299,
+      "valence": 0.345,
+      "tempo": 120.985,
+      "danceability": 0.794
+    },
+    "7CDgFr0gMqKCIQkWF7LL0s": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "93269f22-df86-479f-a116-0ce6fac61c00",
+      "energy": 0.863,
+      "valence": 0.746,
+      "tempo": 114.978,
+      "danceability": 0.815
+    },
+    "5iPrvA3ila0TvkX2UTQIEB": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "f0883c36-dd44-4774-9256-69469377f8d6",
+      "energy": 0.0212,
+      "valence": 0.0339,
+      "tempo": 108.076,
+      "danceability": 0.163
+    },
+    "62P3CMQAknHW4iftsBD41Y": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "2USlegnFJLrVLpoVfPimKB": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "fcaf0afd-bcb7-413b-97f2-4b1136c1f029",
+      "energy": 0.896,
+      "valence": 0.403,
+      "tempo": 101.216,
+      "danceability": 0.67
+    },
+    "0sXJVqQsz7xulitkqf5O53": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "ac6fff8e-d4ed-483e-bf88-815969854af3",
+      "energy": 0.545,
+      "valence": 0.397,
+      "tempo": 121.789,
+      "danceability": 0.582
+    },
+    "6g0VW2d2a6XuG8fpXM8WfA": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "3D9TYPbNo1nnTwE4eLKxnJ": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "adfd4acf-3d33-4e55-8da1-1afb5f76569a",
+      "energy": 0.337,
+      "valence": 0.381,
+      "tempo": 75.041,
+      "danceability": 0.445
+    },
+    "7MrPZCszweFRL3S0OwQKPw": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "e242b362-e660-43e1-b872-43e037cfd061",
+      "energy": 0.169,
+      "valence": 0.0373,
+      "tempo": 137.721,
+      "danceability": 0.222
+    },
+    "7LsA36A2bVTrfGLWBvH1Cm": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "3iw6V4LH7yPj1ESORX9RIN": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "0b1139dc-ef8f-4371-967a-420d8530da38",
+      "energy": 0.893,
+      "valence": 0.439,
+      "tempo": 119.932,
+      "danceability": 0.722
+    },
+    "1RlmAzI27AlIpvoRN3u6Iy": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "e7389064-bf92-43b5-ac11-2b287833691a",
+      "energy": 0.864,
+      "valence": 0.892,
+      "tempo": 160.009,
+      "danceability": 0.636
+    },
+    "7Etf7VJoXNJlO4oMJRUDlT": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "6cb1e02a-82f1-4cfd-87a4-1998ff202474",
+      "energy": 0.699,
+      "valence": 0.403,
+      "tempo": 136.03,
+      "danceability": 0.628
+    },
+    "53BHUFdQphHiZUUG3nx9zn": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": null
+    },
+    "2UbVnbE5FH6008mAm6Mmgw": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:40.383447+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=3nLUOG6vfs4Oe5ZuJ7ro2M,374buquHBf8KY9edm9SBtG,3TWnb13OgnxJH7h9lynmv2,648TTtYB0bH0P8Hfy0FmkL,0OUCDV4CjuCULrXar3KbAf,0bmwICSaQp0JA4Qoh0h1b7,7CDgFr0gMqKCIQkWF7LL0s,5iPrvA3ila0TvkX2UTQIEB,62P3CMQAknHW4iftsBD41Y,2USlegnFJLrVLpoVfPimKB,0sXJVqQsz7xulitkqf5O53,6g0VW2d2a6XuG8fpXM8WfA,3D9TYPbNo1nnTwE4eLKxnJ,7MrPZCszweFRL3S0OwQKPw,7LsA36A2bVTrfGLWBvH1Cm,3iw6V4LH7yPj1ESORX9RIN,1RlmAzI27AlIpvoRN3u6Iy,7Etf7VJoXNJlO4oMJRUDlT,53BHUFdQphHiZUUG3nx9zn,2UbVnbE5FH6008mAm6Mmgw",
+      "reccobeats_id": "fc27d3bf-ca88-4574-ad7e-cb52e81ac9f8",
+      "energy": 0.72,
+      "valence": 0.673,
+      "tempo": 117.003,
+      "danceability": 0.682
+    },
+    "5SVmpsrnP0uX1GlMwD5PPy": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "8c56bd05-c498-4b5a-99f5-ab9295a5cf50",
+      "energy": 0.0825,
+      "valence": 0.141,
+      "tempo": 76.305,
+      "danceability": 0.169
+    },
+    "1AM8QdDFZMq6SrrqUnuQ9P": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "d9997801-cf26-4d65-b7e0-b0491e7f23e8",
+      "energy": 0.548,
+      "valence": 0.477,
+      "tempo": 115.144,
+      "danceability": 0.535
+    },
+    "0o1svwMs3E2lEvlqneY90U": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": null
+    },
+    "5QizpqyN2y25HEEH9xDZeT": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "3ef7c5e6-af7c-48d3-831f-26312917d615",
+      "energy": 0.68,
+      "valence": 0.713,
+      "tempo": 117.855,
+      "danceability": 0.523
+    },
+    "3qjTlglK3HbjRsCDmR9IzS": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": null
+    },
+    "4WT271Oh0OszUW8iJ21qKh": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "185cf8c5-e91a-4eaa-bbbe-324aef2ea06c",
+      "energy": 0.17,
+      "valence": 0.157,
+      "tempo": 79.279,
+      "danceability": 0.364
+    },
+    "6lzc0Al0zfZOIFsFvBS1ki": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "5f35ee2b-85f6-4dac-bdde-9cbc7006d6bc",
+      "energy": 0.713,
+      "valence": 0.328,
+      "tempo": 129.958,
+      "danceability": 0.594
+    },
+    "1SKyU1LqvsRqook6Xnl9mh": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "1e6c6bba-7156-4fab-9efc-04009e46fc25",
+      "energy": 0.079,
+      "valence": 0.184,
+      "tempo": 141.065,
+      "danceability": 0.208
+    },
+    "0SFq19lgG4qbQAZaNZ3xhO": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "ca312469-10ec-4df3-8029-29960da73968",
+      "energy": 0.502,
+      "valence": 0.148,
+      "tempo": 144.204,
+      "danceability": 0.381
+    },
+    "6rSVuRt7xl4GsEQv4tphSl": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "181fd369-febe-40e4-940c-2558dbf3bccb",
+      "energy": 0.335,
+      "valence": 0.0868,
+      "tempo": 62.537,
+      "danceability": 0.163
+    },
+    "6QYaZj591AUBHhMoI8yjON": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "051f691a-66f6-4037-a8ad-921778b35d08",
+      "energy": 0.668,
+      "valence": 0.723,
+      "tempo": 159.871,
+      "danceability": 0.686
+    },
+    "7D0Ntx3LMFMPNtSViJLS4D": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "67ce181a-e673-4f2f-a4c9-f9881219e90f",
+      "energy": 0.563,
+      "valence": 0.7,
+      "tempo": 113.215,
+      "danceability": 0.546
+    },
+    "2YwZ2EdRKkDD4oZBmDZs2l": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": null
+    },
+    "1Vk4yRsz0iBzDiZEoFMQyv": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "3b24b9ae-ae46-4177-ad43-620e30cda136",
+      "energy": 0.192,
+      "valence": 0.114,
+      "tempo": 116.542,
+      "danceability": 0.476
+    },
+    "7JJmb5XwzOO8jgpou264Ml": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "1ac45df3-3c8a-425f-8b59-cf402f9a80b4",
+      "energy": 0.811,
+      "valence": 0.969,
+      "tempo": 121.995,
+      "danceability": 0.866
+    },
+    "4ZTTUAjJCd4NMZmIU7RB4c": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "6ae93817-da2a-4996-bcfc-8dd63ab67d27",
+      "energy": 0.648,
+      "valence": 0.283,
+      "tempo": 144.029,
+      "danceability": 0.588
+    },
+    "0roOLcll6SSTYZwsQFmXqP": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "cbe6e407-e68a-4255-bb44-4633d16505eb",
+      "energy": 0.628,
+      "valence": 0.772,
+      "tempo": 114.556,
+      "danceability": 0.624
+    },
+    "71R6zJsrF3ffc3TBFHfivX": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "bc67c267-ab46-4bf5-acb2-382a5ebd518b",
+      "energy": 0.842,
+      "valence": 0.818,
+      "tempo": 104.958,
+      "danceability": 0.706
+    },
+    "7MIdbo0RDBjAhtfuqBJ0o1": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": "cddb2013-94f3-4469-aa3e-e1c3be19d3f1",
+      "energy": 0.482,
+      "valence": 0.33,
+      "tempo": 129.873,
+      "danceability": 0.687
+    },
+    "2Uc6Yk4C4LdA8ZFn3ajLNJ": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:42.092312+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=5SVmpsrnP0uX1GlMwD5PPy,1AM8QdDFZMq6SrrqUnuQ9P,0o1svwMs3E2lEvlqneY90U,5QizpqyN2y25HEEH9xDZeT,3qjTlglK3HbjRsCDmR9IzS,4WT271Oh0OszUW8iJ21qKh,6lzc0Al0zfZOIFsFvBS1ki,1SKyU1LqvsRqook6Xnl9mh,0SFq19lgG4qbQAZaNZ3xhO,6rSVuRt7xl4GsEQv4tphSl,6QYaZj591AUBHhMoI8yjON,7D0Ntx3LMFMPNtSViJLS4D,2YwZ2EdRKkDD4oZBmDZs2l,1Vk4yRsz0iBzDiZEoFMQyv,7JJmb5XwzOO8jgpou264Ml,4ZTTUAjJCd4NMZmIU7RB4c,0roOLcll6SSTYZwsQFmXqP,71R6zJsrF3ffc3TBFHfivX,7MIdbo0RDBjAhtfuqBJ0o1,2Uc6Yk4C4LdA8ZFn3ajLNJ",
+      "reccobeats_id": null
+    },
+    "7tqhbajSfrz2F7E1Z75ASX": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "378fb707-03ef-492c-b1f2-5561c8ff4c92",
+      "energy": 0.6,
+      "valence": 0.797,
+      "tempo": 129.987,
+      "danceability": 0.663
+    },
+    "6w8tGzTSdZKkKG4IWh1n6h": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "64f60b49-48ef-4511-b8de-17c4d5d2bd63",
+      "energy": 0.855,
+      "valence": 0.497,
+      "tempo": 167.538,
+      "danceability": 0.325
+    },
+    "29ZvXEFLfZAuZ69lZtP4Pu": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "a0029e35-8b36-4229-a172-a0c4f9c93499",
+      "energy": 0.147,
+      "valence": 0.523,
+      "tempo": 82.184,
+      "danceability": 0.36
+    },
+    "2DCbpn3RvvYjl7rYPioBxy": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "809d34f4-fa87-4673-aa02-3d8693caf9ae",
+      "energy": 0.306,
+      "valence": 0.652,
+      "tempo": 100.241,
+      "danceability": 0.629
+    },
+    "7MFbWfml7ckdX2zbRbHS63": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "51af0589-99b4-43f3-bd66-08be5780b65d",
+      "energy": 0.321,
+      "valence": 0.64,
+      "tempo": 92.659,
+      "danceability": 0.571
+    },
+    "01zYK5iHym0Iv5zntatkIO": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "742d8828-2cc0-4853-a241-7311f0e5d4f7",
+      "energy": 0.0835,
+      "valence": 0.0729,
+      "tempo": 117.701,
+      "danceability": 0.273
+    },
+    "4mfeHg2gIMSnmHxhEIZWjw": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "4f58780b-719d-4bb9-bee3-7d121564d2f6",
+      "energy": 0.00745,
+      "valence": 0.0911,
+      "tempo": 138.954,
+      "danceability": 0.148
+    },
+    "6h6Rhtd6gQh76wplYMuJb7": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "88191589-c79a-4fac-a3a9-4972070301ee",
+      "energy": 0.386,
+      "valence": 0.545,
+      "tempo": 153.879,
+      "danceability": 0.348
+    },
+    "6bnYnAVPzpWLqG4mqC9gc3": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": null
+    },
+    "6MLWeN4Ws0JkEJkmGr6VlC": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "c87a77ac-4baf-4e96-a4c1-9e2ad2db871f",
+      "energy": 0.621,
+      "valence": 0.42,
+      "tempo": 126.589,
+      "danceability": 0.647
+    },
+    "6rekLbbb3i42gCgFIXOFvE": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "d5474385-9f0d-41cd-8c72-ab81fd2fe69c",
+      "energy": 0.78,
+      "valence": 0.794,
+      "tempo": 117.654,
+      "danceability": 0.55
+    },
+    "1V9zWcD0PpWlFa42vCErzm": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "b6379716-8e2e-4edc-a3fe-9864d82af5e3",
+      "energy": 0.57,
+      "valence": 0.58,
+      "tempo": 111.5,
+      "danceability": 0.406
+    },
+    "01NcXkODkVNxwkM1dAIzvx": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "06f18348-c634-48e0-a473-1b66813741fe",
+      "energy": 0.19,
+      "valence": 0.149,
+      "tempo": 127.4,
+      "danceability": 0.234
+    },
+    "25yQPHgC35WNnnOUqFhgVR": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "db1ef4b0-baca-4980-a691-48cd2031ce6a",
+      "energy": 0.325,
+      "valence": 0.668,
+      "tempo": 65.09,
+      "danceability": 0.311
+    },
+    "3XOjFgrErsNvD05zsJ05wC": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "de175ffe-9b90-4dc8-a876-dd62334553e0",
+      "energy": 0.201,
+      "valence": 0.217,
+      "tempo": 75.613,
+      "danceability": 0.268
+    },
+    "1s9LXkIlLBgZIhaL8vsoAF": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "3ac3a5dc-b428-47ce-97a0-4511f7bebc5e",
+      "energy": 0.365,
+      "valence": 0.188,
+      "tempo": 120.973,
+      "danceability": 0.398
+    },
+    "1rqqCSm0Qe4I9rUvWncaom": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "a3d3e9b6-fd9e-40ed-ae49-2e614676b4dc",
+      "energy": 0.904,
+      "valence": 0.681,
+      "tempo": 82.014,
+      "danceability": 0.579
+    },
+    "7wjiMdiSgsL9Vkrwb10Num": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "d86cc1bb-3645-4943-bb2a-3f80f5da909b",
+      "energy": 0.698,
+      "valence": 0.467,
+      "tempo": 102.004,
+      "danceability": 0.61
+    },
+    "78SCmQ8A7KQSMdkem2SwBP": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "cdd5cf37-93b5-48a9-8a06-cb4f56cee8f2",
+      "energy": 0.678,
+      "valence": 0.791,
+      "tempo": 142.06,
+      "danceability": 0.767
+    },
+    "5RsUlxLto4NZbhJpqJbHfN": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:43.521000+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7tqhbajSfrz2F7E1Z75ASX,6w8tGzTSdZKkKG4IWh1n6h,29ZvXEFLfZAuZ69lZtP4Pu,2DCbpn3RvvYjl7rYPioBxy,7MFbWfml7ckdX2zbRbHS63,01zYK5iHym0Iv5zntatkIO,4mfeHg2gIMSnmHxhEIZWjw,6h6Rhtd6gQh76wplYMuJb7,6bnYnAVPzpWLqG4mqC9gc3,6MLWeN4Ws0JkEJkmGr6VlC,6rekLbbb3i42gCgFIXOFvE,1V9zWcD0PpWlFa42vCErzm,01NcXkODkVNxwkM1dAIzvx,25yQPHgC35WNnnOUqFhgVR,3XOjFgrErsNvD05zsJ05wC,1s9LXkIlLBgZIhaL8vsoAF,1rqqCSm0Qe4I9rUvWncaom,7wjiMdiSgsL9Vkrwb10Num,78SCmQ8A7KQSMdkem2SwBP,5RsUlxLto4NZbhJpqJbHfN",
+      "reccobeats_id": "b212b2a7-bd82-47a0-91ee-e537d3536be4",
+      "energy": 0.834,
+      "valence": 0.816,
+      "tempo": 131.7,
+      "danceability": 0.727
+    },
+    "776AftMmFFAWUIEAb3lHhw": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "0ec26625-1561-40ab-8cf1-2f8ee14cf225",
+      "energy": 0.939,
+      "valence": 0.644,
+      "tempo": 102.999,
+      "danceability": 0.625
+    },
+    "73bPjp8U4lXPx5NY9IA6BJ": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": null
+    },
+    "6viCrMdt8zgjOygIuJMC5X": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "2d7c2670-9a37-435d-a93e-e52a9b7aff10",
+      "energy": 0.574,
+      "valence": 0.434,
+      "tempo": 93.033,
+      "danceability": 0.696
+    },
+    "6dGnYIeXmHdcikdzNNDMm2": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "935ad8dc-d561-4548-882e-3e4699dc15cd",
+      "energy": 0.54,
+      "valence": 0.394,
+      "tempo": 129.177,
+      "danceability": 0.557
+    },
+    "1kWxETqMxvlzbQk1kbPdi3": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "45d8bbef-eb2d-455a-9436-8967320e72fe",
+      "energy": 0.394,
+      "valence": 0.569,
+      "tempo": 120.633,
+      "danceability": 0.555
+    },
+    "3jtYDVnci3cPv81FneE9Df": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "523b94f7-84ea-4980-82cf-98137f167395",
+      "energy": 0.839,
+      "valence": 0.786,
+      "tempo": 147.967,
+      "danceability": 0.682
+    },
+    "5rohUzwEoRsUvAA1Bf3DLo": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "8840023d-f2a9-4b05-a465-f436941e5f9a",
+      "energy": 0.355,
+      "valence": 0.465,
+      "tempo": 93.788,
+      "danceability": 0.423
+    },
+    "4BUJXY9VcEd7yLh8qM6mFF": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "d4dc10fb-3e3d-4be6-93ac-6af9185e461e",
+      "energy": 0.82,
+      "valence": 0.536,
+      "tempo": 157.92,
+      "danceability": 0.504
+    },
+    "1bg4MF45JFU0Dx1MjLJ5vn": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": null
+    },
+    "4gdiCHNbwugojBqr5Jt3pq": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "24627543-4e02-42de-ad47-d6db959c4c09",
+      "energy": 0.907,
+      "valence": 0.685,
+      "tempo": 126.004,
+      "danceability": 0.785
+    },
+    "5P5PDtCM1yHzlYwA9cMS7U": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "eaaa4d22-bc7e-4b75-a2de-0445553ad049",
+      "energy": 0.97,
+      "valence": 0.308,
+      "tempo": 134.023,
+      "danceability": 0.492
+    },
+    "3CNscssh8LuzDyUNG0lbjE": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "ad3d7787-6adb-47c8-a84d-dec90fb796aa",
+      "energy": 0.99,
+      "valence": 0.409,
+      "tempo": 105.01,
+      "danceability": 0.279
+    },
+    "2OeGGHqYpwKyRoKeN8Kh4v": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "29493a7b-8164-429c-950e-f776df1ca0cb",
+      "energy": 0.996,
+      "valence": 0.0796,
+      "tempo": 141.975,
+      "danceability": 0.474
+    },
+    "6MCjmGYlw6mQVWRFVgBRvB": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "97b0c22b-d79c-407c-a56d-eeafddc6997d",
+      "energy": 0.871,
+      "valence": 0.826,
+      "tempo": 130.025,
+      "danceability": 0.663
+    },
+    "3rmo8F54jFF8OgYsqTxm5d": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "eb7baead-5f77-4cfb-a10f-26ae39783d30",
+      "energy": 0.893,
+      "valence": 0.537,
+      "tempo": 126.011,
+      "danceability": 0.807
+    },
+    "4CH0dVylkeBPydRM7AaG8g": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "cdf9e0fa-7da8-4584-9dbe-76497c1dc9c2",
+      "energy": 0.486,
+      "valence": 0.309,
+      "tempo": 78.31,
+      "danceability": 0.661
+    },
+    "1FlY15vdP570PJucy6JdYm": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "d33fd9a8-a29c-45a2-b08b-660f008bef74",
+      "energy": 0.446,
+      "valence": 0.545,
+      "tempo": 80.009,
+      "danceability": 0.788
+    },
+    "3CFS6vCzVVsWL5veYusCe7": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": null
+    },
+    "4eVlTwVNTBzG42WuLcRMw2": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "6edd54d5-a1d7-47b4-9e13-fa1c9a58623b",
+      "energy": 0.301,
+      "valence": 0.112,
+      "tempo": 107.926,
+      "danceability": 0.465
+    },
+    "497KXejajbUwBPC8YG9TmU": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:44.894008+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=776AftMmFFAWUIEAb3lHhw,73bPjp8U4lXPx5NY9IA6BJ,6viCrMdt8zgjOygIuJMC5X,6dGnYIeXmHdcikdzNNDMm2,1kWxETqMxvlzbQk1kbPdi3,3jtYDVnci3cPv81FneE9Df,5rohUzwEoRsUvAA1Bf3DLo,4BUJXY9VcEd7yLh8qM6mFF,1bg4MF45JFU0Dx1MjLJ5vn,4gdiCHNbwugojBqr5Jt3pq,5P5PDtCM1yHzlYwA9cMS7U,3CNscssh8LuzDyUNG0lbjE,2OeGGHqYpwKyRoKeN8Kh4v,6MCjmGYlw6mQVWRFVgBRvB,3rmo8F54jFF8OgYsqTxm5d,4CH0dVylkeBPydRM7AaG8g,1FlY15vdP570PJucy6JdYm,3CFS6vCzVVsWL5veYusCe7,4eVlTwVNTBzG42WuLcRMw2,497KXejajbUwBPC8YG9TmU",
+      "reccobeats_id": "335543da-d1e1-4aed-a1f0-3c537944b647",
+      "energy": 0.566,
+      "valence": 0.31,
+      "tempo": 79.989,
+      "danceability": 0.778
+    },
+    "4JLI9AgtAXutJvjlXgZBoR": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "67JnqFQuK42cAWkUiv4y7z": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "b047b6fa-3282-4d52-81af-c28297a4c3be",
+      "energy": 0.55,
+      "valence": 0.305,
+      "tempo": 79.961,
+      "danceability": 0.61
+    },
+    "3lJhwigFBCtsgihnM5VLXC": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "8d3de946-0dfa-47c4-bc66-6e18b67d22cd",
+      "energy": 0.275,
+      "valence": 0.143,
+      "tempo": 145.935,
+      "danceability": 0.674
+    },
+    "1RZrwASQmcjtG0rPo5uf1E": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "3SrS38PBz2nk3leXnZ2jX4": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "0A4PZuepTcIQVvA5m7R0M1": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "0vTKR5TQD03kASmEGlyDF3": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "300ef4de-29f9-47f7-ab40-dcf040ad74a7",
+      "energy": 0.915,
+      "valence": 0.459,
+      "tempo": 123.257,
+      "danceability": 0.51
+    },
+    "5LQ1q6fdkq7M7ZkGAzLfR6": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "bd989070-4aec-472e-91c8-561631bc2bac",
+      "energy": 0.204,
+      "valence": 0.582,
+      "tempo": 160.012,
+      "danceability": 0.698
+    },
+    "23gcQr3NRKzLXsP9H5jFQ1": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "3vIVCdRx0jaxegLrtuGYvH": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "fe9f19f8-d4bf-4431-945f-2fe2188f0a26",
+      "energy": 0.722,
+      "valence": 0.58,
+      "tempo": 118.004,
+      "danceability": 0.628
+    },
+    "2aBxt229cbLDOvtL7Xbb9x": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "f3b32f87-77ac-410e-b6d5-c08cca7fe182",
+      "energy": 0.531,
+      "valence": 0.487,
+      "tempo": 78.946,
+      "danceability": 0.65
+    },
+    "6dXt4t5jgySnVTeTpT4C0l": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "1CUVN2kn7mW5FjkqXTR2W1": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "0pn6qyOJYNwP9nhGg3L7dV": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "6MyFzWJv92xEZV3xt3us2D": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "6wNeKPXF0RDKyvfKfri5hf": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "223484ad-0e46-48db-8604-e00826f0528b",
+      "energy": 0.708,
+      "valence": 0.555,
+      "tempo": 130.029,
+      "danceability": 0.725
+    },
+    "5MxLy1RM6bGy1TK1eba4Ts": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "540edd9f-a006-4df1-94fb-00fb016f1664",
+      "energy": 0.475,
+      "valence": 0.432,
+      "tempo": 62.488,
+      "danceability": 0.555
+    },
+    "6gJbvBnEoY69UvFYTQuzBD": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "d4152b6a-9ec8-453c-b1c6-e3683068b1ea",
+      "energy": 0.688,
+      "valence": 0.535,
+      "tempo": 170.133,
+      "danceability": 0.416
+    },
+    "1GYCHxZn4T6PcH1tSI1isx": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": "93e83642-f8b1-4130-96d1-0b96f110d94e",
+      "energy": 0.743,
+      "valence": 0.197,
+      "tempo": 144.004,
+      "danceability": 0.563
+    },
+    "396N38tjW13HbH6x1snxyp": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:46.287128+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=4JLI9AgtAXutJvjlXgZBoR,67JnqFQuK42cAWkUiv4y7z,3lJhwigFBCtsgihnM5VLXC,1RZrwASQmcjtG0rPo5uf1E,3SrS38PBz2nk3leXnZ2jX4,0A4PZuepTcIQVvA5m7R0M1,0vTKR5TQD03kASmEGlyDF3,5LQ1q6fdkq7M7ZkGAzLfR6,23gcQr3NRKzLXsP9H5jFQ1,3vIVCdRx0jaxegLrtuGYvH,2aBxt229cbLDOvtL7Xbb9x,6dXt4t5jgySnVTeTpT4C0l,1CUVN2kn7mW5FjkqXTR2W1,0pn6qyOJYNwP9nhGg3L7dV,6MyFzWJv92xEZV3xt3us2D,6wNeKPXF0RDKyvfKfri5hf,5MxLy1RM6bGy1TK1eba4Ts,6gJbvBnEoY69UvFYTQuzBD,1GYCHxZn4T6PcH1tSI1isx,396N38tjW13HbH6x1snxyp",
+      "reccobeats_id": null
+    },
+    "7Eta1k8UzwooyJCB9stY1d": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "d07539eb-2d01-468e-930c-57ab10502e0d",
+      "energy": 0.848,
+      "valence": 0.562,
+      "tempo": 90.001,
+      "danceability": 0.554
+    },
+    "4eU7lxV6m9wULReRRtGaZ8": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "eae87807-a605-414d-a98f-2ceb5aa5e9be",
+      "energy": 0.436,
+      "valence": 0.203,
+      "tempo": 108.999,
+      "danceability": 0.628
+    },
+    "4sT2hi5bgnG2ApK7Oq06QW": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "476d320a-ac43-49aa-a603-9a356782c92a",
+      "energy": 0.76,
+      "valence": 0.731,
+      "tempo": 120.006,
+      "danceability": 0.759
+    },
+    "4DpNNXFMMxQEKl7r0ykkWA": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "1b491098-5e93-4db9-bd17-a25f8bb4d9ea",
+      "energy": 0.729,
+      "valence": 0.446,
+      "tempo": 123.97,
+      "danceability": 0.68
+    },
+    "3fo6DYGktjENCiagUeU9yH": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "6928d6fe-586c-4460-a3a0-23940b34dfa5",
+      "energy": 0.73,
+      "valence": 0.339,
+      "tempo": 136.05,
+      "danceability": 0.716
+    },
+    "0WpRF4X2LyMTZnqqrXX19U": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "fc294a10-eadb-4cb8-92ba-deb5cf04ab6c",
+      "energy": 0.884,
+      "valence": 0.191,
+      "tempo": 180.029,
+      "danceability": 0.434
+    },
+    "7lBPn6LpIvbvAihTRvBMig": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "d2d32b10-e4f1-4c90-9b42-3ee6a9a0c2c9",
+      "energy": 0.82,
+      "valence": 0.251,
+      "tempo": 120.041,
+      "danceability": 0.527
+    },
+    "1foMv2HQwfQ2vntFf9HFeG": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "4ac19d62-f358-493c-9681-17f8e124345a",
+      "energy": 0.703,
+      "valence": 0.852,
+      "tempo": 92.761,
+      "danceability": 0.676
+    },
+    "5f6JnxY2aqNdF3qFIPozUd": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "6fc8ab61-354a-4a22-b091-0923a3e58cf0",
+      "energy": 0.656,
+      "valence": 0.593,
+      "tempo": 180.052,
+      "danceability": 0.548
+    },
+    "1r9xUipOqoNwggBpENDsvJ": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "b21076a5-006b-431d-8702-cd9cc8d4c32a",
+      "energy": 0.783,
+      "valence": 0.555,
+      "tempo": 77.011,
+      "danceability": 0.728
+    },
+    "5UlnuulVAVmmesw4VzqHdG": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "07e6be07-1a19-458f-a498-c9276fe86896",
+      "energy": 0.745,
+      "valence": 0.52,
+      "tempo": 77.029,
+      "danceability": 0.722
+    },
+    "2CJ6CRzuRQd46asE1ucuVD": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "0434d1cd-a442-47b6-974b-846c857faa57",
+      "energy": 0.741,
+      "valence": 0.511,
+      "tempo": 138.041,
+      "danceability": 0.574
+    },
+    "1P2d8t9LPbqZ6XqXx3x7l7": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": null
+    },
+    "6zRBNkFmcNLgb3mOLmUK8i": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "695ea5ff-ed9a-4047-a196-f9f7998626c8",
+      "energy": 0.812,
+      "valence": 0.4,
+      "tempo": 99.997,
+      "danceability": 0.615
+    },
+    "1ZreCbCSHpRcvqYpXlxnYC": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "962647ff-d0b6-465a-bf4e-d6ee62b4e623",
+      "energy": 0.742,
+      "valence": 0.659,
+      "tempo": 96.012,
+      "danceability": 0.544
+    },
+    "39LLxExYz6ewLAcYrzQQyP": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "bac08193-3d44-437f-a462-6958f3ddd9bc",
+      "energy": 0.884,
+      "valence": 0.914,
+      "tempo": 103.014,
+      "danceability": 0.695
+    },
+    "3aEJbbODCrHdZh2qY6dRy1": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "9d1068c9-bfcd-432a-8fc9-55992e6e181c",
+      "energy": 0.884,
+      "valence": 0.914,
+      "tempo": 103.014,
+      "danceability": 0.695
+    },
+    "4y85iyRxpimSDOOU4ht1Rw": {
+      "status": "Geen kenmerken gevonden",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": null
+    },
+    "13MF2TYuyfITClL1R2ei6e": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "a7809b36-6696-49da-8851-959566bfc4e0",
+      "energy": 0.836,
+      "valence": 0.396,
+      "tempo": 124.952,
+      "danceability": 0.661
+    },
+    "3u1FiuSpfsgVnekEMXgMwJ": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:48.048645+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=7Eta1k8UzwooyJCB9stY1d,4eU7lxV6m9wULReRRtGaZ8,4sT2hi5bgnG2ApK7Oq06QW,4DpNNXFMMxQEKl7r0ykkWA,3fo6DYGktjENCiagUeU9yH,0WpRF4X2LyMTZnqqrXX19U,7lBPn6LpIvbvAihTRvBMig,1foMv2HQwfQ2vntFf9HFeG,5f6JnxY2aqNdF3qFIPozUd,1r9xUipOqoNwggBpENDsvJ,5UlnuulVAVmmesw4VzqHdG,2CJ6CRzuRQd46asE1ucuVD,1P2d8t9LPbqZ6XqXx3x7l7,6zRBNkFmcNLgb3mOLmUK8i,1ZreCbCSHpRcvqYpXlxnYC,39LLxExYz6ewLAcYrzQQyP,3aEJbbODCrHdZh2qY6dRy1,4y85iyRxpimSDOOU4ht1Rw,13MF2TYuyfITClL1R2ei6e,3u1FiuSpfsgVnekEMXgMwJ",
+      "reccobeats_id": "3a843bde-4b80-4220-9e82-f5f756fb63e0",
+      "energy": 0.835,
+      "valence": 0.382,
+      "tempo": 114.908,
+      "danceability": 0.559
+    },
+    "2Y0iGXY6m6immVb2ktbseM": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "edabb33b-f6d0-4877-8c74-e914e69872dd",
+      "energy": 0.712,
+      "valence": 0.62,
+      "tempo": 97.512,
+      "danceability": 0.705
+    },
+    "7uUahoeqGNRMbpdeiLj1rS": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "7c51514c-7b1f-41cc-8442-9200cdab7cf6",
+      "energy": 0.426,
+      "valence": 0.0636,
+      "tempo": 97.91,
+      "danceability": 0.495
+    },
+    "1sWeSMifj6Z6kZyI6z3bRc": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "c7c9e204-2424-47f8-90cb-1598147d9270",
+      "energy": 0.851,
+      "valence": 0.309,
+      "tempo": 78.086,
+      "danceability": 0.365
+    },
+    "5pb39nk7Wr8e0aMQ6VUdlr": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "7fe619d0-20ca-4764-bf43-a989056463ef",
+      "energy": 0.982,
+      "valence": 0.463,
+      "tempo": 90.052,
+      "danceability": 0.656
+    },
+    "2bvbLvGD7YnS4Nhf9E4hUl": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "345eb4bc-3c1f-42ca-8c1d-a50f33faea66",
+      "energy": 0.685,
+      "valence": 0.99,
+      "tempo": 119.442,
+      "danceability": 0.614
+    },
+    "4euAGZTszWPrriggYK0HG9": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "4b6034ba-14a8-4bff-b0ef-b0f35a86b1a0",
+      "energy": 0.727,
+      "valence": 0.71,
+      "tempo": 133.481,
+      "danceability": 0.678
+    },
+    "2245x0g1ft0HC7sf79zbYN": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "6f9505fe-dfa6-4863-9278-f36dc15f4a79",
+      "energy": 0.701,
+      "valence": 0.58,
+      "tempo": 133.0,
+      "danceability": 0.695
+    },
+    "3Dv1eDb0MEgF93GpLXlucZ": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "210b3b66-f34c-4246-a0b8-c281bdbd2d23",
+      "energy": 0.673,
+      "valence": 0.779,
+      "tempo": 110.962,
+      "danceability": 0.787
+    },
+    "6ZT36tXEKY2vvTCuNK4fi1": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "3ee4098f-0565-4906-bfbd-42df8d1ebbf5",
+      "energy": 0.984,
+      "valence": 0.963,
+      "tempo": 115.974,
+      "danceability": 0.762
+    },
+    "2eQeO6nn2hMaMECtoWMT6y": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "3f824ba9-a664-4818-a0d8-0786a03e664b",
+      "energy": 0.785,
+      "valence": 0.229,
+      "tempo": 170.071,
+      "danceability": 0.44
+    },
+    "6609cCUb8ayZkTUvkJ03Rm": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "0902b74b-0b7c-41c1-b829-cb4ae0d952d7",
+      "energy": 0.847,
+      "valence": 0.262,
+      "tempo": 174.154,
+      "danceability": 0.361
+    },
+    "7MwyCLXQ2OH3NAfz7ct0rE": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "bf986d31-d0f4-4a22-af96-8f74e8b95e96",
+      "energy": 0.925,
+      "valence": 0.695,
+      "tempo": 127.961,
+      "danceability": 0.58
+    },
+    "0UBgJMgfxiIsuL9zfiEuKn": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "6a840921-01d1-46b5-94d9-a7b0f4c2af07",
+      "energy": 0.939,
+      "valence": 0.402,
+      "tempo": 150.093,
+      "danceability": 0.528
+    },
+    "3v8mNKreR6M4QvyeYQgkC1": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "683aa5ff-567e-453d-b0e8-724bb3a10f00",
+      "energy": 0.641,
+      "valence": 0.416,
+      "tempo": 179.927,
+      "danceability": 0.51
+    },
+    "677Xq7U2XXtpd3LbzyKoG2": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "123bbd91-44b4-452d-9fc5-143f9f7cdb2c",
+      "energy": 0.783,
+      "valence": 0.657,
+      "tempo": 176.232,
+      "danceability": 0.367
+    },
+    "58hjBuGWj43LQ6WjN3ZQAK": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "2522de98-027d-4a9e-b867-069bf86ab325",
+      "energy": 0.793,
+      "valence": 0.279,
+      "tempo": 180.162,
+      "danceability": 0.33
+    },
+    "3JyvSSU0VnlMUsQckyEVfX": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "53d00c39-ff2a-4050-9264-1dc3d7c576fa",
+      "energy": 0.701,
+      "valence": 0.18,
+      "tempo": 76.918,
+      "danceability": 0.497
+    },
+    "1dGr1c8CrMLDpV6mPbImSI": {
+      "status": "Match",
+      "opgehaald_op": "2026-09-24T11:15:49.738845+00:00",
+      "bron_url": "https://api.reccobeats.com/v1/audio-features?ids=2Y0iGXY6m6immVb2ktbseM,7uUahoeqGNRMbpdeiLj1rS,1sWeSMifj6Z6kZyI6z3bRc,5pb39nk7Wr8e0aMQ6VUdlr,2bvbLvGD7YnS4Nhf9E4hUl,4euAGZTszWPrriggYK0HG9,2245x0g1ft0HC7sf79zbYN,3Dv1eDb0MEgF93GpLXlucZ,6ZT36tXEKY2vvTCuNK4fi1,2eQeO6nn2hMaMECtoWMT6y,6609cCUb8ayZkTUvkJ03Rm,7MwyCLXQ2OH3NAfz7ct0rE,0UBgJMgfxiIsuL9zfiEuKn,3v8mNKreR6M4QvyeYQgkC1,677Xq7U2XXtpd3LbzyKoG2,58hjBuGWj43LQ6WjN3ZQAK,3JyvSSU0VnlMUsQckyEVfX,1dGr1c8CrMLDpV6mPbImSI",
+      "reccobeats_id": "9f8d3d1d-27d4-4f91-bebb-24e0f8546903",
+      "energy": 0.543,
+      "valence": 0.453,
+      "tempo": 68.534,
+      "danceability": 0.359
+    }
+  },
+  "broninfo": {
+    "spotify_bronrijen": 114000,
+    "spotify_gebruikt": 113999,
+    "spotify_genres": 114,
+    "studenten": 98,
+    "student_genres": 23
+  }
+}
